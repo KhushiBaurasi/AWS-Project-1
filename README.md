@@ -1,16 +1,16 @@
-# 📦 FutureCart CRM Data Mart
+# 📺 MediaStream Analytics
 
-A **Lambda Architecture**–based Data Warehouse solution for managing and analyzing customer cases and survey feedback in **real-time and batch modes** using AWS.
+A real-time analytics pipeline for tracking **viewership logs**, **ad revenue**, and **user engagement** using AWS and Snowflake. Designed with a **Lambda Architecture** for real-time + batch processing.
 
 ---
 
 ## 🚀 Project Summary
 
-FutureCart CRM Data Mart is designed to help businesses like **FutureCart Inc.** track customer support and satisfaction **KPIs** using both **historical batch data** and **real-time streams**.
+MediaStream Analytics enables media companies to track **audience behavior** and **monetization metrics** with scalable AWS cloud services and Snowflake.
 
-- 🔁 **Lambda Architecture** combining batch (Hive) and streaming (Kinesis)
-- 🧩 **Multiple AWS services**: MySQL, Hive, Spark, Kinesis, Redshift, Quicksight
-- 📊 **KPI dashboards** for open/closed cases, sentiment analysis, and daily trends
+- 🌊 Real-time ingestion from CSV logs into Snowflake and S3
+- ❄️ Snowflake-powered dashboards for revenue and viewer insights
+- 🧊 Iceberg format support for efficient batch queries using Glue
 
 ---
 
@@ -18,16 +18,17 @@ FutureCart CRM Data Mart is designed to help businesses like **FutureCart Inc.**
 
 | Service | Role |
 |--------|------|
-| **MySQL (EC2)** | Source for dimension tables |
-| **Apache Hive** | Stores historical case & survey data |
-| **Apache Spark on EMR** | Batch processing and real-time streaming |
-| **Amazon Kinesis** | Real-time ingestion |
-| **Amazon S3** | Data lake |
-| **Amazon Redshift Serverless** | Central data warehouse |
-| **Amazon Quicksight** | Dashboards & analytics |
-| **Airflow + AWS Lambda** | Workflow orchestration & scheduling |
+| **AWS EC2** | Hosts Python script to stream CSV logs |
+| **Amazon Kinesis** | Real-time ingestion pipeline |
+| **Apache Spark on EMR** | Structured streaming and transformations |
+| **Amazon S3** | Raw and processed data storage |
+| **AWS Glue** | ETL and batch Iceberg table creation |
+| **Snowflake** | Cloud Data Warehouse for analytics |
+| **Apache Iceberg** | Enables large-scale batch analytics |
+| **Power BI / Quicksight** | Visual reporting and dashboards |
 
 ---
 
 ## 🗂️ Architecture Overview
+
 
