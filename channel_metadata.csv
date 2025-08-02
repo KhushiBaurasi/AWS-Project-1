@@ -1,0 +1,51 @@
+channel_id,channel_name,genre,language,launch_year
+CH001,Star Plus,Entertainment,Hindi,2014
+CH002,Colors TV,Entertainment,Hindi,2016
+CH003,Sony Entertainment Television,Entertainment,Hindi,2011
+CH004,Zee TV,Entertainment,Hindi,2021
+CH005,Star Bharat,Sports,English,2006
+CH006,Sony SAB,News,Kannada,2011
+CH007,Dangal TV,Kids,English,2009
+CH008,Zee Anmol,Sports,Bengali,2019
+CH009,Colors Rishtey,News,Telugu,2013
+CH010,DD National,Entertainment,Malayalam,2018
+CH011,Star Sports 1,Sports,Hindi,2015
+CH012,Star Sports 2,Entertainment,Kannada,2006
+CH013,Star Sports 3,Music,Tamil,2011
+CH014,Star Sports Select 1,Entertainment,Hindi,2008
+CH015,Star Sports Select 2,Music,Telugu,2015
+CH016,Sony Sports Ten 1,Sports,English,2022
+CH017,Sony Sports Ten 2,Entertainment,English,2002
+CH018,Sony Sports Ten 3,Music,Hindi,2016
+CH019,DD Sports,Sports,Hindi,2005
+CH020,Eurosport India,Movies,Bengali,2003
+CH021,Aaj Tak,News,Hindi,2006
+CH022,ABP News,News,Hindi,2019
+CH023,India TV,News,English,2012
+CH024,News18 India,Music,Tamil,2008
+CH025,Republic Bharat,News,Hindi,2012
+CH026,Times Now,News,English,2003
+CH027,CNN-News18,News,English,2003
+CH028,NDTV India,News,English,2016
+CH029,Zee News,News,Hindi,2022
+CH030,India Today,Kids,Malayalam,2014
+CH031,Sun TV,Entertainment,Tamil,2005
+CH032,Star Vijay,Entertainment,Tamil,2006
+CH033,Colors Tamil,Movies,English,2006
+CH034,Zee Tamil,Kids,Malayalam,2018
+CH035,KTV,Movies,Tamil,2017
+CH036,Star Maa,Sports,Tamil,2002
+CH037,Zee Telugu,Movies,Marathi,2016
+CH038,ETV Telugu,Entertainment,Telugu,2006
+CH039,Gemini TV,Entertainment,Malayalam,2016
+CH040,Asianet,Entertainment,Malayalam,2013
+CH041,Surya TV,Sports,Marathi,2020
+CH042,Zee Kannada,Movies,Kannada,2017
+CH043,Colors Kannada,News,Tamil,2018
+CH044,Zee Marathi,News,Kannada,2022
+CH045,Zee Bangla,Entertainment,Bengali,2009
+CH046,ETV Marathi,Entertainment,English,2005
+CH047,DD Sahyadri,Entertainment,Tamil,2011
+CH048,DD Bangla,Kids,Telugu,2009
+CH049,News18 Kerala,News,Malayalam,2004
+CH050,News18 Tamil Nadu,Music,Marathi,2016
